@@ -23,7 +23,7 @@ To run this project locally:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/marna4255/js-typing-game.git
    ```
 2. Open `index.html` in any browser.
 
